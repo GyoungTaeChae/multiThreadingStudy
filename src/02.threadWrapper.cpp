@@ -48,5 +48,5 @@ int main() {
   }
 
   std::cout << "=== 메인 스레드 종료 ===\n";
-  return 0;
+  return 1;
 }
